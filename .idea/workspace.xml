@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a00bfb1-cae5-450f-84bf-74e3d3dd4aa0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W3Q3xnRr9JC3kZh0FW0XZq2ZOR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.Web_browser">
+    <configuration name="Web_browser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Save on CSV FIle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web_browser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="add_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Save on CSV FIle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/add_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code_TEST_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Data Save on CSV FIle" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code_TEST_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Web_browser" />
+        <item itemvalue="Python.code_TEST_file" />
+        <item itemvalue="Python.add_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a00bfb1-cae5-450f-84bf-74e3d3dd4aa0" name="Default Changelist" comment="" />
+      <created>1578375602485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578375602485</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="0" key="#Web_browser" timestamp="1578565862560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="0" key="#Web_browser/0.0.1366.728@0.0.1366.728" timestamp="1578565862560" />
+    <state x="421" y="234" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1578897016288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="421" y="234" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.728@0.0.1366.728" timestamp="1578897016288" />
+    <state x="437" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1580899361221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="218" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1580899361221" />
+    <state width="913" height="618" key="DebuggerActiveHint" timestamp="1578560025059">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="913" height="618" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1578560025059" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1580901198244">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1580901198244" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1578897015039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578897015039" />
+    <state width="1579" height="190" key="GridCell.Tab.0.bottom" timestamp="1583410915498">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1345" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582369894230" />
+    <state width="1579" height="190" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583410915498" />
+    <state width="1579" height="190" key="GridCell.Tab.0.center" timestamp="1583410915498">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1345" height="149" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582369894230" />
+    <state width="1579" height="190" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583410915498" />
+    <state width="1579" height="190" key="GridCell.Tab.0.left" timestamp="1583410915498">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1345" height="149" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582369894230" />
+    <state width="1579" height="190" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583410915498" />
+    <state width="1579" height="190" key="GridCell.Tab.0.right" timestamp="1583410915498">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1345" height="149" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582369894230" />
+    <state width="1579" height="190" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583410915498" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1580903637911">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580903637911" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1580903637910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1580903637910" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1580903637910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1580903637910" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1580903637910">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580903637910" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1578897103928">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578897103928" />
+    <state width="684" height="372" key="XDebugger.FullValuePopup" timestamp="1578909064014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="684" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1578909064014" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Web_browser.py</url>
+          <line>256</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="txt.BestVirtualSize" />
+        <watch expression="Update_Website_Status" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
